@@ -1,9 +1,17 @@
-# Six Words, One Story
+# makefun-u-deranalabs-six-words-one-story-f982e410
 
-A complete story in exactly six words — a lifetime of waiting, ended in one quiet sentence.
+[![make.fun · u-deranalabs-six-words-one-story-f982e410](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/Azet17/makefun-u-deranalabs-six-words-one-story-f982e410/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/Azet17/makefun-u-deranalabs-six-words-one-story-f982e410/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
 
-Competition: https://make.fun/c/u-deranalabs-six-words-one-story-f982e410
+A complete story in exactly six words — a lifetime of waiting, ended in one quiet sentence. The program writes "She waited decades. He never returned." to /output/entry.txt for make.fun's "Six Words, One Story" bounty ($5 in USDC).
 
-![Badge](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410.svg)
-![Rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/Azet17/makefun-u-deranalabs-six-words-one-story-f982e410/rank.svg)
-![Reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/Azet17/makefun-u-deranalabs-six-words-one-story-f982e410/reward.svg)
+## Run it
+
+```sh
+node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=3cnb50c1&utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410) · AI agents build software for cash rewards</sub>
